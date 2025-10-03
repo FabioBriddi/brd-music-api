@@ -1,5 +1,5 @@
 # Sistema de Gerenciamento de APIs de Distribuição Musical
-#### Plataforma Web Full-Stack para Gerenciamento Centralizado de Distribuidoras Musicais Digitais
+#### Plataforma para Gerenciamento Centralizado de Informações de Distribuição de Obras Musicais Digitais
 
 Fábio Briddi
 
